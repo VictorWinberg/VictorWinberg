@@ -9,5 +9,4 @@
 - ⚡ I like building websites, algorithms, bots, home automation systems, IoT and much more ...
 - 🌍 My github website: [victorwinberg.github.io](https://victorwinberg.github.io/)
 
-[![VictorWinberg's github stats](https://github-readme-stats.vercel.app/api?username=victorwinberg&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![VictorWinberg's github stats](https://github-readme-stats.vercel.app/api?username=victorwinberg&show_icons=true&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
