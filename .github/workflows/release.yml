@@ -1,0 +1,48 @@
+name: Create release
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build version
+        id: build_version
+        run: |
+          INIT=$(date -d "1995-04-07" '+%s')
+          NOW=$(date '+%s')
+          DIFF=$((NOW - INIT))
+          Y=$(($(date -d @$DIFF '+%Y') - 1970))
+          M=$(($(date -d @$DIFF '+%m') - 1))
+          VERSION="v0.$Y.$M"
+          echo "::set-output name=version::$VERSION"
+      - name: Update VERSION.md
+        run: sed -i "15 i \\\n### Version $VERSION" VERSION.md
+        env:
+          VERSION: ${{ steps.build_version.outputs.version }}
+      - name: Git commit
+        run: |
+          git config --global user.name 'VictorWinberg Actions'
+          git config --global user.email 'victorwinberg-actions@users.noreply.github.com'
+          git commit -am "🔖 $VERSION"
+          git tag -a $VERSION -m "$VERSION"
+          git push --follow-tags
+        env:
+          VERSION: ${{ steps.build_version.outputs.version }}
+      - name: Build Changelog
+        id: build_changelog
+        uses: mikepenz/release-changelog-builder-action@v3
+        with:
+          configuration: ".github/configuration.json"
+          commitMode: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ steps.build_version.outputs.version }}
+          body: ${{steps.build_changelog.outputs.changelog}}
+

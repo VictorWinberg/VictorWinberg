@@ -1,0 +1,32 @@
+name: Push update
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build commit message
+        id: build_message
+        run: |
+          COMMIT_TYPES=('🚀' '🌟' '🐛' '🧪' '🚨')
+          COMMIT_SCOPE=('add' 'update' 'improve' 'remove' 'deprecate' 'upgrade' 'downgrade' 'misc' 'increase' 'decrease')
+          COMMIT_BODY=('human interactions' 'social skills' 'strength' 'speed' 'agility' 'age' 'spelling' 'intelligence' 'luck' 'endurance' 'durability' 'stamina' 'weight')
+          COMMIT_MSG="${COMMIT_TYPES[$RANDOM % ${#COMMIT_TYPES[@]}]} ${COMMIT_SCOPE[$RANDOM % ${#COMMIT_SCOPE[@]}]} ${COMMIT_BODY[$RANDOM % ${#COMMIT_BODY[@]}]}"
+          echo "::set-output name=commit_msg::$COMMIT_MSG"
+      - name: Update VERSION.md
+        run: sed -i "15 i * $MSG" VERSION.md
+        env:
+          MSG: ${{ steps.build_message.outputs.commit_msg }}
+      - name: Git commit
+        run: |
+          git config --global user.name 'VictorWinberg Actions'
+          git config --global user.email 'victorwinberg-actions@users.noreply.github.com'
+          git commit -am "$COMMIT_MSG"
+          git push
+        env:
+          COMMIT_MSG: ${{ steps.build_message.outputs.commit_msg }}
+
