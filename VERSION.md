@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade spelling
 
 ### Version v0.0.0
 * 🌟 was born
