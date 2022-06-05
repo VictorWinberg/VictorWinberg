@@ -1,8 +1,12 @@
 ## Hello, I'm Victor 👋
-
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![Node.js](https://img.shields.io/badge/NodeJS-Advanced-green)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f)
+![Node/Express](https://img.shields.io/badge/Node/Express-6cc24a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6)
+![React](https://img.shields.io/badge/React-00d8ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5)
+![Github Actions](https://img.shields.io/badge/Github%20Actions-black)
+![Python](https://img.shields.io/badge/Python-4584b6)
+![GraphQL](https://img.shields.io/badge/GraphQL-e535ab)
 
 - 💻 I’m a Full-Stack Developer
 - ❤️ I love [@home-assistant](https://github.com/home-assistant), [@raspberrypi](https://github.com/raspberrypi) and [@open-source](https://github.com/open-source)
