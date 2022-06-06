@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc endurance
 * 🚨 downgrade spelling
 
 ### Version v0.0.0
