@@ -2,7 +2,7 @@ name: Push update
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '22 22 * * *'
 
 jobs:
   version:
