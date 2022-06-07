@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate human interactions
 * 🚨 misc endurance
 * 🚨 downgrade spelling
 
