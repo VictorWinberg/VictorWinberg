@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 deprecate weight
 * 🧪 downgrade programming
 * 🚨 deprecate human interactions
 * 🚨 misc endurance
