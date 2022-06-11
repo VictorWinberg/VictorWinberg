@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add social skills
 * 🚨 improve endurance
 * 🐛 deprecate weight
 * 🧪 downgrade programming
