@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade programming
 * 🌟 downgrade strength
 * 🐛 deprecate social skills
 * 🚨 add social skills
