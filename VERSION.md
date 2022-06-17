@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 fix irony
 * 🐛 increase humor
 * 🌟 remove age
 * 🐛 downgrade programming
