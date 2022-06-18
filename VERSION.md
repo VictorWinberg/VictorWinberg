@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove stamina
 * 🧪 fix irony
 * 🐛 increase humor
 * 🌟 remove age
