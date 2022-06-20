@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease age
 * 🌟 upgrade spelling
 * 🐛 remove stamina
 * 🧪 fix irony
