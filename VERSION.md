@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc speed
 * 🌟 upgrade speed
 * 🚀 decrease age
 * 🌟 upgrade spelling
