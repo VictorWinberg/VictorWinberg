@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 add durability
 * 🐛 misc speed
 * 🌟 upgrade speed
 * 🚀 decrease age
