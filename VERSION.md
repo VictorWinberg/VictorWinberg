@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade humor
 * 🧪 add durability
 * 🐛 misc speed
 * 🌟 upgrade speed
