@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 decrease strength
 * 🐛 downgrade humor
 * 🧪 add durability
 * 🐛 misc speed
