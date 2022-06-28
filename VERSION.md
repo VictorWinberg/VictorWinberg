@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 add speed
 * 🐛 deprecate luck
 * 🚨 remove luck
 * 🐛 decrease strength
