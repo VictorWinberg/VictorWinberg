@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 fix intelligence
 
 ### Version v0.27.2
 * 🌟 improve luck
