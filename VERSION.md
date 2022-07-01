@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.2
 * 🌟 improve luck
 * 🌟 increase irony
 * 🐛 add speed
