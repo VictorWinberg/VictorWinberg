@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 fix stamina
 * 🚨 fix intelligence
 
 ### Version v0.27.2
