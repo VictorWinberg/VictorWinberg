@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 improve strength
 * 🚀 improve programming
 * 🚀 fix stamina
 * 🚨 fix intelligence
