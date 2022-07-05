@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update social skills
 * 🐛 improve strength
 * 🚀 improve programming
 * 🚀 fix stamina
