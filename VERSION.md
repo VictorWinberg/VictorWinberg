@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade age
 * 🧪 deprecate agility
 * 🌟 deprecate irony
 * 🌟 update social skills
