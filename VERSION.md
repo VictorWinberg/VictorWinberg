@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 fix agility
 * 🚨 improve speed
 * 🐛 downgrade age
 * 🧪 deprecate agility
