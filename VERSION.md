@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 misc spelling
 * 🧪 fix agility
 * 🚨 improve speed
 * 🐛 downgrade age
