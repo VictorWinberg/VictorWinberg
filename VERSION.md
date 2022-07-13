@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add luck
 * 🧪 upgrade speed
 * 🌟 misc spelling
 * 🧪 fix agility
