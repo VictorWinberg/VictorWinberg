@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 decrease human interactions
 * 🌟 increase agility
 * 🚨 add luck
 * 🧪 upgrade speed
