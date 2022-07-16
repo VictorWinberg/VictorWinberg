@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 increase spelling
 * 🚨 decrease human interactions
 * 🌟 increase agility
 * 🚨 add luck
