@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 update programming
 * 🚀 improve humor
 * 🚀 downgrade durability
 * 🚀 downgrade agility
