@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 update jokes
 * 🌟 improve humor
 * 🚀 misc intelligence
 * 🧪 update programming
