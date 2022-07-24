@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 misc social skills
 * 🚨 update jokes
 * 🌟 improve humor
 * 🚀 misc intelligence
