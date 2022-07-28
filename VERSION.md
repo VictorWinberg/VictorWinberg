@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 decrease programming
 * 🚀 decrease endurance
 * 🚨 upgrade sarcasm
 * 🚀 misc jokes
