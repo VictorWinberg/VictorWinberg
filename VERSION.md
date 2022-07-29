@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 add social skills
 * 🐛 decrease programming
 * 🚀 decrease endurance
 * 🚨 upgrade sarcasm
