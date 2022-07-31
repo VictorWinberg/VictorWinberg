@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 misc endurance
 * 🧪 update humor
 * 🧪 add social skills
 * 🐛 decrease programming
