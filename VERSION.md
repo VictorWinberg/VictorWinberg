@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.3
 * 🚀 misc endurance
 * 🧪 update humor
 * 🧪 add social skills
