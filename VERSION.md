@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade intelligence
 
 ### Version v0.27.3
 * 🚀 misc endurance
