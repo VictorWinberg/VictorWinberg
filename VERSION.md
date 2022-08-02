@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc stamina
 * 🚨 downgrade intelligence
 
 ### Version v0.27.3
