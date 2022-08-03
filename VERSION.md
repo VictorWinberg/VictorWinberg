@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 upgrade endurance
 * 🚨 misc stamina
 * 🚨 downgrade intelligence
 
