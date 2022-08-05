@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 downgrade speed
 * 🐛 deprecate jokes
 * 🚀 upgrade endurance
 * 🚨 misc stamina
