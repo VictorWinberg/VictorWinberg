@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 remove endurance
 * 🚀 decrease stamina
 * 🌟 upgrade humor
 * 🌟 downgrade speed
