@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 remove sarcasm
 * 🧪 remove endurance
 * 🚀 decrease stamina
 * 🌟 upgrade humor
