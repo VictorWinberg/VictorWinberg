@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 decrease speed
 * 🧪 add intelligence
 * 🌟 remove sarcasm
 * 🧪 remove endurance
