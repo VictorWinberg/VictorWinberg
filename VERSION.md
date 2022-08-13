@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc social skills
 * 🚀 remove durability
 * 🐛 decrease speed
 * 🧪 add intelligence
