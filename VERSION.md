@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 add jokes
 * 🧪 fix speed
 * 🐛 misc social skills
 * 🚀 remove durability
