@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 add programming
 * 🐛 add jokes
 * 🧪 fix speed
 * 🐛 misc social skills
