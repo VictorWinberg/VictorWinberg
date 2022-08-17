@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate programming
 * 🧪 add programming
 * 🐛 add jokes
 * 🧪 fix speed
