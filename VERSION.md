@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 add irony
 * 🌟 downgrade durability
 * 🚨 deprecate programming
 * 🧪 add programming
