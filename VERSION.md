@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc weight
 * 🚀 add intelligence
 * 🚀 add irony
 * 🌟 downgrade durability
