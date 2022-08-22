@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 decrease humor
 * 🐛 misc weight
 * 🚀 add intelligence
 * 🚀 add irony
