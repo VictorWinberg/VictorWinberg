@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate spelling
 * 🐛 downgrade sarcasm
 * 🌟 decrease humor
 * 🐛 misc weight
