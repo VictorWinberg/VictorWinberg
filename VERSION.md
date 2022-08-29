@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase humor
 * 🚀 remove speed
 * 🐛 update programming
 * 🌟 update humor
