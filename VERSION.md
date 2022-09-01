@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.4
 * 🧪 increase stamina
 * 🚨 upgrade irony
 * 🚨 increase humor
