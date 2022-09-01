@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve weight
 
 ### Version v0.27.4
 * 🧪 increase stamina
