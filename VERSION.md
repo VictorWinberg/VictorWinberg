@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 increase speed
 * 🚀 improve weight
 
 ### Version v0.27.4
