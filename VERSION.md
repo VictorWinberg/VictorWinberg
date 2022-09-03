@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 deprecate age
 * 🧪 increase speed
 * 🚀 improve weight
 
