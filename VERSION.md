@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase human interactions
 * 🌟 deprecate age
 * 🧪 increase speed
 * 🚀 improve weight
