@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade irony
 * 🐛 increase human interactions
 * 🌟 deprecate age
 * 🧪 increase speed
