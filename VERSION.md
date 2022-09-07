@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 remove weight
 * 🚀 update endurance
 * 🐛 upgrade irony
 * 🐛 increase human interactions
