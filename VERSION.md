@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc sarcasm
 * 🚀 remove weight
 * 🚀 update endurance
 * 🐛 upgrade irony
