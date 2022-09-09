@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 add human interactions
 * 🚨 misc sarcasm
 * 🚀 remove weight
 * 🚀 update endurance
