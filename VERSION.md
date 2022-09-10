@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 downgrade social skills
 * 🧪 add human interactions
 * 🚨 misc sarcasm
 * 🚀 remove weight
