@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase age
 * 🌟 downgrade social skills
 * 🧪 add human interactions
 * 🚨 misc sarcasm
