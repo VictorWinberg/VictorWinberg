@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 decrease social skills
 * 🐛 increase age
 * 🌟 downgrade social skills
 * 🧪 add human interactions
