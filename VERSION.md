@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve programming
 * 🧪 decrease social skills
 * 🐛 increase age
 * 🌟 downgrade social skills
