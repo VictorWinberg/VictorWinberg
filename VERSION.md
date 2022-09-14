@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase endurance
 * 🚀 improve programming
 * 🧪 decrease social skills
 * 🐛 increase age
