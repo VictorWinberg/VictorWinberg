@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 update durability
 * 🐛 increase endurance
 * 🚀 improve programming
 * 🧪 decrease social skills
