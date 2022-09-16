@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 upgrade endurance
 * 🧪 update durability
 * 🐛 increase endurance
 * 🚀 improve programming
