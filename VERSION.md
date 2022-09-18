@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 remove strength
 * 🧪 upgrade weight
 * 🌟 upgrade endurance
 * 🧪 update durability
