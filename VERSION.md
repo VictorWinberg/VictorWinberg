@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve programming
 * 🌟 remove strength
 * 🧪 upgrade weight
 * 🌟 upgrade endurance
