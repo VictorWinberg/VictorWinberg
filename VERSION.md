@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 downgrade spelling
 * 🧪 improve programming
 * 🌟 remove strength
 * 🧪 upgrade weight
