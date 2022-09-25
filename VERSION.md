@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 downgrade humor
 * 🧪 deprecate spelling
 * 🐛 decrease irony
 * 🌟 fix durability
