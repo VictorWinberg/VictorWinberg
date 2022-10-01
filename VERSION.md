@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc programming
 
 ### Version v0.27.5
 * 🌟 upgrade luck
