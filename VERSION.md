@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve irony
 * 🐛 misc programming
 
 ### Version v0.27.5
