@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 fix agility
 * 🧪 improve spelling
 * 🧪 upgrade agility
 * 🌟 improve irony
