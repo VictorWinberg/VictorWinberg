@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 remove agility
 * 🚨 improve age
 * 🚀 fix agility
 * 🧪 improve spelling
