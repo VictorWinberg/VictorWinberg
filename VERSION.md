@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate age
 * 🚨 increase spelling
 * 🚀 increase spelling
 * 🚀 add sarcasm
