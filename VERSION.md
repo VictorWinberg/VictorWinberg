@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 improve spelling
 * 🐛 misc weight
 * 🚀 deprecate age
 * 🚨 increase spelling
