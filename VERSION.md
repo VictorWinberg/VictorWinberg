@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update jokes
 * 🐛 improve spelling
 * 🐛 misc weight
 * 🚀 deprecate age
