@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update speed
 * 🌟 add spelling
 * 🌟 update jokes
 * 🐛 improve spelling
