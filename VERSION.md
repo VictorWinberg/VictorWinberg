@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update social skills
 * 🌟 update speed
 * 🌟 add spelling
 * 🌟 update jokes
