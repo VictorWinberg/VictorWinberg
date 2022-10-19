@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade age
 * 🚀 update social skills
 * 🌟 update speed
 * 🌟 add spelling
