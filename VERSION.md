@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 upgrade durability
 * 🚨 downgrade age
 * 🚀 update social skills
 * 🌟 update speed
