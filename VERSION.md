@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate social skills
 * 🚀 upgrade durability
 * 🚨 downgrade age
 * 🚀 update social skills
