@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade humor
 * 🚨 downgrade age
 * 🐛 decrease social skills
 * 🚨 deprecate social skills
