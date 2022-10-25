@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase weight
 * 🚨 downgrade humor
 * 🚨 downgrade age
 * 🐛 decrease social skills
