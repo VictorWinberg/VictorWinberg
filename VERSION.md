@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc humor
 * 🚨 increase sarcasm
 * 🐛 increase weight
 * 🚨 downgrade humor
