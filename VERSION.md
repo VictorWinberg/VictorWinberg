@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 update speed
 * 🚨 remove social skills
 * 🚨 decrease sarcasm
 * 🚨 misc humor
