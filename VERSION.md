@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 increase stamina
 * 🧪 update speed
 * 🚨 remove social skills
 * 🚨 decrease sarcasm
