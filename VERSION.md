@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add age
 
 ### Version v0.27.6
 * 🌟 increase stamina
