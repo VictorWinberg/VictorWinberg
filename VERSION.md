@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.6
 * 🌟 increase stamina
 * 🧪 update speed
 * 🚨 remove social skills
