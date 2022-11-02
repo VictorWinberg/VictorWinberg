@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 add luck
 * 🚨 add age
 
 ### Version v0.27.6
