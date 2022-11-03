@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 improve humor
 * 🌟 add luck
 * 🚨 add age
 
