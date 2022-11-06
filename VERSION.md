@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve spelling
 * 🚀 increase jokes
 * 🚨 update social skills
 * 🐛 improve humor
