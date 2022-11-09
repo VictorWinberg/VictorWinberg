@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate sarcasm
 * 🧪 downgrade luck
 * 🧪 misc humor
 * 🧪 improve spelling
