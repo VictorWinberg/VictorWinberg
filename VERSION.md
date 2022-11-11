@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 improve social skills
 * 🌟 decrease spelling
 * 🚀 deprecate sarcasm
 * 🧪 downgrade luck
