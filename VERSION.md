@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 upgrade endurance
 * 🐛 improve social skills
 * 🌟 decrease spelling
 * 🚀 deprecate sarcasm
