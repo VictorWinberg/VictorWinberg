@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase jokes
 * 🚨 upgrade endurance
 * 🐛 improve social skills
 * 🌟 decrease spelling
