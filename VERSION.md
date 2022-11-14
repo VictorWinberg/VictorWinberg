@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 deprecate luck
 * 🚨 increase jokes
 * 🚨 upgrade endurance
 * 🐛 improve social skills
