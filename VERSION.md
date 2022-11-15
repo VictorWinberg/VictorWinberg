@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update strength
 * 🌟 deprecate luck
 * 🚨 increase jokes
 * 🚨 upgrade endurance
