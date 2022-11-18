@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 upgrade weight
 * 🌟 improve agility
 * 🐛 upgrade stamina
 * 🚀 update strength
