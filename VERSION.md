@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc spelling
 * 🧪 decrease spelling
 * 🚨 fix social skills
 * 🧪 downgrade stamina
