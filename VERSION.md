@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve spelling
 * 🐛 misc spelling
 * 🧪 decrease spelling
 * 🚨 fix social skills
