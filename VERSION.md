@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 decrease weight
 * 🧪 improve spelling
 * 🐛 misc spelling
 * 🧪 decrease spelling
