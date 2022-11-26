@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase durability
 * 🧪 decrease weight
 * 🧪 improve spelling
 * 🐛 misc spelling
