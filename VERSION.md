@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve luck
 * 🚨 increase durability
 * 🧪 decrease weight
 * 🧪 improve spelling
