@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 improve agility
 * 🌟 improve luck
 * 🚨 increase durability
 * 🧪 decrease weight
