@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve human interactions
 * 🚨 improve agility
 * 🌟 improve luck
 * 🚨 increase durability
