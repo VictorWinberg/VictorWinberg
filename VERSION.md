@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase endurance
 * 🧪 improve human interactions
 * 🚨 improve agility
 * 🌟 improve luck
