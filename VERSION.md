@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update programming
 * 🚨 increase endurance
 * 🧪 improve human interactions
 * 🚨 improve agility
