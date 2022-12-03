@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 update sarcasm
 * 🌟 add stamina
 * 🌟 update programming
 * 🚨 increase endurance
