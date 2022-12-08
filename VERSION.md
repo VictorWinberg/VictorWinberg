@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase luck
 * 🧪 increase agility
 * 🚀 downgrade intelligence
 * 🚀 update programming
