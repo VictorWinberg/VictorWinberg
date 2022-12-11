@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 fix jokes
 * 🚨 remove sarcasm
 * 🚀 increase jokes
 * 🚨 increase luck
