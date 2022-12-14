@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update sarcasm
 * 🚀 downgrade spelling
 * 🚨 downgrade intelligence
 * 🚨 fix jokes
