@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 decrease weight
 * 🧪 remove irony
 * 🚀 update sarcasm
 * 🚀 downgrade spelling
