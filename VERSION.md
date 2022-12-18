@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 misc speed
 * 🧪 increase speed
 * 🚨 decrease weight
 * 🧪 remove irony
