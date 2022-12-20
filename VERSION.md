@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade human interactions
 * 🧪 increase endurance
 * 🚀 misc speed
 * 🧪 increase speed
