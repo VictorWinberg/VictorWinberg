@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 increase jokes
 * 🚨 downgrade human interactions
 * 🧪 increase endurance
 * 🚀 misc speed
