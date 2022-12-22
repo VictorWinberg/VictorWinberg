@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 deprecate irony
 * 🚀 increase jokes
 * 🚨 downgrade human interactions
 * 🧪 increase endurance
