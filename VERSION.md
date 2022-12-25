@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 deprecate age
 * 🚀 decrease jokes
 * 🌟 downgrade programming
 * 🐛 deprecate irony
