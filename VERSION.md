@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc human interactions
 * 🧪 upgrade jokes
 * 🐛 deprecate age
 * 🚀 decrease jokes
