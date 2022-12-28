@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 fix social skills
 * 🚨 misc human interactions
 * 🧪 upgrade jokes
 * 🐛 deprecate age
