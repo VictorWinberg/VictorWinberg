@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve human interactions
 * 🚀 remove stamina
 * 🐛 downgrade age
 * 🐛 fix social skills
