@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 deprecate weight
 * 🚀 improve human interactions
 * 🚀 remove stamina
 * 🐛 downgrade age
