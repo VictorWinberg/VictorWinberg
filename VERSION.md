@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 remove luck
 * 🧪 deprecate weight
 * 🚀 improve human interactions
 * 🚀 remove stamina
