@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 increase agility
 * 🚀 update sarcasm
 * 🚨 remove luck
 * 🧪 deprecate weight
