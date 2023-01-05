@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 misc intelligence
 * 🚀 increase agility
 * 🚀 update sarcasm
 * 🚨 remove luck
