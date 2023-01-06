@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade programming
 * 🚀 misc intelligence
 * 🚀 increase agility
 * 🚀 update sarcasm
