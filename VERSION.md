@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve weight
 * 🚨 downgrade programming
 * 🚀 misc intelligence
 * 🚀 increase agility
