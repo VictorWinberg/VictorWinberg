@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove programming
 * 🧪 increase endurance
 * 🧪 improve weight
 * 🚨 downgrade programming
