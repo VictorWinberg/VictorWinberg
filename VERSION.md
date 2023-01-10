@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 misc sarcasm
 * 🐛 remove programming
 * 🧪 increase endurance
 * 🧪 improve weight
