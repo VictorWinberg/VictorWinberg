@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate strength
 * 🐛 increase stamina
 * 🚨 misc sarcasm
 * 🐛 remove programming
