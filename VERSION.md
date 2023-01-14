@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase human interactions
 * 🌟 add weight
 * 🚀 deprecate strength
 * 🐛 increase stamina
