@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add social skills
 * 🐛 increase human interactions
 * 🌟 add weight
 * 🚀 deprecate strength
