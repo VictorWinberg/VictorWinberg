@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade programming
 * 🚨 add social skills
 * 🐛 increase human interactions
 * 🌟 add weight
