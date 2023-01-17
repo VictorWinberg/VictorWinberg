@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade programming
 * 🐛 upgrade programming
 * 🚨 add social skills
 * 🐛 increase human interactions
