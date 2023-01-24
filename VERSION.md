@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 add spelling
 * 🚀 improve intelligence
 * 🌟 improve programming
 * 🌟 improve speed
