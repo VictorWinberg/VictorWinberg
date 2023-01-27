@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 upgrade endurance
 * 🚨 remove durability
 * 🚨 misc endurance
 * 🚀 add spelling
