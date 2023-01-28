@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate strength
 * 🚨 upgrade endurance
 * 🚨 remove durability
 * 🚨 misc endurance
