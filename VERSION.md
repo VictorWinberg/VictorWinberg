@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 increase irony
 * 🚨 deprecate strength
 * 🚨 upgrade endurance
 * 🚨 remove durability
