@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve endurance
 * 🌟 increase irony
 * 🚨 deprecate strength
 * 🚨 upgrade endurance
