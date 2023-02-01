@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.9
 * 🧪 update intelligence
 * 🚀 improve endurance
 * 🌟 increase irony
