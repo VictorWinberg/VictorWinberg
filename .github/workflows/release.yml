@@ -17,8 +17,8 @@ jobs:
           INIT=$(date -d "1995-04-07" '+%s')
           NOW=$(date '+%s')
           DIFF=$((NOW - INIT))
-          Y=$(($(date -d @$DIFF '+%Y') - 1970))
-          M=$(($(date -d @$DIFF '+%m') - 1))
+          Y=$(($(date -d @$DIFF '+%-Y') - 1970))
+          M=$(($(date -d @$DIFF '+%-m') - 1))
           VERSION="v0.$Y.$M"
           echo "::set-output name=version::$VERSION"
       - name: Update VERSION.md
