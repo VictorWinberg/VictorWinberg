@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 decrease social skills
 
 ### Version v0.27.9
 * 🧪 update intelligence
