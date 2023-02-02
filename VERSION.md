@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 fix humor
 * 🌟 decrease social skills
 
 ### Version v0.27.9
