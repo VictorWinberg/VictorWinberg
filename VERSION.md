@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add social skills
 * 🚀 decrease programming
 * 🐛 deprecate jokes
 * 🚨 misc agility
