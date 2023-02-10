@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate endurance
 * 🚀 improve intelligence
 * 🚨 add social skills
 * 🚀 decrease programming
