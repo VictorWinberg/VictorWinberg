@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate human interactions
 * 🌟 decrease social skills
 * 🚀 deprecate endurance
 * 🚀 improve intelligence
