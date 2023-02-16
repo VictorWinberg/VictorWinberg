@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 add durability
 * 🚨 fix programming
 * 🐛 downgrade durability
 * 🌟 upgrade age
