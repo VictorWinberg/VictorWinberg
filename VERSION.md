@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 fix strength
 * 🌟 update social skills
 * 🐛 decrease jokes
 * 🚀 add durability
