@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 add age
 * 🚀 remove strength
 * 🚀 fix strength
 * 🌟 update social skills
