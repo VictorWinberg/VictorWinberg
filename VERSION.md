@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 deprecate jokes
 * 🧪 remove humor
 * 🌟 add age
 * 🚀 remove strength
