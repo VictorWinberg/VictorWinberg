@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 improve speed
 * 🐛 misc durability
 * 🚨 update weight
 * 🐛 deprecate jokes
