@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 downgrade stamina
 * 🐛 improve speed
 * 🐛 misc durability
 * 🚨 update weight
