@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 fix stamina
 * 🚀 downgrade stamina
 * 🐛 improve speed
 * 🐛 misc durability
