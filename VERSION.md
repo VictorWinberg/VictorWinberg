@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.10
 * 🚨 fix stamina
 * 🚀 downgrade stamina
 * 🐛 improve speed
