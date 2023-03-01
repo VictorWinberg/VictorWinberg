@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade sarcasm
 
 ### Version v0.27.10
 * 🚨 fix stamina
