@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease humor
 * 🐛 upgrade sarcasm
 
 ### Version v0.27.10
