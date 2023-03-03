@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 decrease agility
 * 🚀 decrease humor
 * 🐛 upgrade sarcasm
 
