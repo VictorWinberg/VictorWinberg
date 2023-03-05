@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve stamina
 * 🚨 increase intelligence
 * 🚨 decrease agility
 * 🚀 decrease humor
