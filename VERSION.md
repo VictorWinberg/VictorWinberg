@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 add durability
 * 🚀 improve stamina
 * 🚨 increase intelligence
 * 🚨 decrease agility
