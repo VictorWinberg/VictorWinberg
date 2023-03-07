@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase human interactions
 * 🚀 add durability
 * 🚀 improve stamina
 * 🚨 increase intelligence
