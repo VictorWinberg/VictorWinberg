@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove durability
 * 🚀 increase programming
 * 🧪 remove stamina
 * 🐛 deprecate sarcasm
