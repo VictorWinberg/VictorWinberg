@@ -13,6 +13,7 @@ Version history
 
 ### Draft
 * 🚀 upgrade agility
+* 🚀 upgrade agility
 * 🐛 remove durability
 * 🚀 increase programming
 * 🧪 remove stamina
