@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease age
 * 🚀 upgrade agility
 * 🚀 upgrade agility
 * 🐛 remove durability
