@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update luck
 * 🚨 upgrade stamina
 * 🚀 decrease jokes
 * 🚀 decrease age
