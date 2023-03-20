@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update agility
 * 🚨 deprecate agility
 * 🚨 update luck
 * 🚀 update luck
