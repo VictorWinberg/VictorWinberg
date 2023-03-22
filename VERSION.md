@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 add spelling
 * 🧪 upgrade durability
 * 🚀 update agility
 * 🚨 deprecate agility
