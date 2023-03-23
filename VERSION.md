@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease age
 * 🌟 add spelling
 * 🧪 upgrade durability
 * 🚀 update agility
