@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 increase sarcasm
 * 🚀 downgrade humor
 * 🚀 decrease age
 * 🌟 add spelling
