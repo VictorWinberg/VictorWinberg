@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 upgrade speed
 * 🌟 upgrade jokes
 * 🧪 deprecate weight
 * 🧪 increase sarcasm
