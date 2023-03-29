@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 remove intelligence
 * 🌟 upgrade speed
 * 🌟 upgrade jokes
 * 🧪 deprecate weight
