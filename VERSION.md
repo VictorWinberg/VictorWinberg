@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 remove luck
 * 🚀 remove intelligence
 * 🌟 upgrade speed
 * 🌟 upgrade jokes
