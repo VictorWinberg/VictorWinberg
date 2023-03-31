@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 misc stamina
 * 🌟 remove luck
 * 🚀 remove intelligence
 * 🌟 upgrade speed
