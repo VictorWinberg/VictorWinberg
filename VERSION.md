@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve agility
 
 ### Version v0.27.11
 * 🧪 misc stamina
