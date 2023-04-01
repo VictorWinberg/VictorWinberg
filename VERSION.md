@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.27.11
 * 🧪 misc stamina
 * 🌟 remove luck
 * 🚀 remove intelligence
