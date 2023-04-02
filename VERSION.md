@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 deprecate intelligence
 * 🌟 improve agility
 
 ### Version v0.27.11
