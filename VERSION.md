@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade jokes
 * 🌟 deprecate intelligence
 * 🌟 improve agility
 
