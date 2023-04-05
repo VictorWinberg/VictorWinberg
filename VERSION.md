@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease spelling
 * 🐛 deprecate jokes
 * 🐛 downgrade jokes
 * 🌟 deprecate intelligence
