@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 remove age
 * 🚨 misc spelling
 * 🚀 update age
 * 🚀 decrease spelling
