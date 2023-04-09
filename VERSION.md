@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve human interactions
 * 🌟 remove age
 * 🚨 misc spelling
 * 🚀 update age
