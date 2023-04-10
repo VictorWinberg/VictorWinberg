@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 add luck
 * 🚀 improve human interactions
 * 🌟 remove age
 * 🚨 misc spelling
