@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate social skills
 * 🌟 add luck
 * 🚀 improve human interactions
 * 🌟 remove age
