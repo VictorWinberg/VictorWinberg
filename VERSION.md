@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc luck
 * 🧪 improve weight
 * 🚀 deprecate social skills
 * 🌟 add luck
