@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade sarcasm
 * 🐛 update age
 * 🐛 misc luck
 * 🧪 improve weight
