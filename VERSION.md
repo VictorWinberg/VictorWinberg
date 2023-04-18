@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease weight
 * 🚀 downgrade luck
 * 🚀 fix weight
 * 🐛 downgrade sarcasm
