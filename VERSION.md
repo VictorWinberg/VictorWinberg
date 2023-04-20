@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase endurance
 * 🧪 remove humor
 * 🚀 decrease weight
 * 🚀 downgrade luck
