@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 upgrade age
 * 🐛 increase endurance
 * 🧪 remove humor
 * 🚀 decrease weight
