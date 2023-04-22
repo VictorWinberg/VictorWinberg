@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve stamina
 * 🚨 upgrade age
 * 🐛 increase endurance
 * 🧪 remove humor
