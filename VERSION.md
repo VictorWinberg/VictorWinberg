@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc programming
 * 🌟 deprecate intelligence
 * 🌟 improve stamina
 * 🚨 upgrade age
