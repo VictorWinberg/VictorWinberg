@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc agility
 * 🐛 misc programming
 * 🌟 deprecate intelligence
 * 🌟 improve stamina
