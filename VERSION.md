@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 fix human interactions
 * 🚀 update weight
 * 🐛 misc agility
 * 🐛 misc programming
