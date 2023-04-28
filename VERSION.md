@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 misc intelligence
 * 🐛 fix human interactions
 * 🚀 update weight
 * 🐛 misc agility
