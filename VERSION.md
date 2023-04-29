@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 decrease durability
 * 🌟 misc intelligence
 * 🐛 fix human interactions
 * 🚀 update weight
