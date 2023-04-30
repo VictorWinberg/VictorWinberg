@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 increase jokes
 * 🐛 decrease durability
 * 🌟 misc intelligence
 * 🐛 fix human interactions
