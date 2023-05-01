@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 downgrade speed
 
 ### Version v0.28.0
 * 🌟 increase jokes
