@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.28.0
 * 🌟 increase jokes
 * 🐛 decrease durability
 * 🌟 misc intelligence
