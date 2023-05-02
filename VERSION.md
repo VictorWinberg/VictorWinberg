@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 misc durability
 * 🚀 downgrade speed
 
 ### Version v0.28.0
