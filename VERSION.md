@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 misc age
 * 🚨 downgrade strength
 * 🌟 misc durability
 * 🚀 downgrade speed
