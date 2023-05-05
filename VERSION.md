@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 fix irony
 * 🧪 misc age
 * 🚨 downgrade strength
 * 🌟 misc durability
