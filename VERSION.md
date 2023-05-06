@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 deprecate human interactions
 * 🧪 fix irony
 * 🧪 misc age
 * 🚨 downgrade strength
