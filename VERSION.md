@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase endurance
 * 🧪 deprecate human interactions
 * 🧪 fix irony
 * 🧪 misc age
