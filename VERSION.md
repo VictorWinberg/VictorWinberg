@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve endurance
 * 🐛 increase endurance
 * 🧪 deprecate human interactions
 * 🧪 fix irony
