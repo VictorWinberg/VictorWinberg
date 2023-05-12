@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove social skills
 * 🐛 upgrade speed
 * 🚨 decrease durability
 * 🚨 increase intelligence
