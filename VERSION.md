@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 upgrade age
 * 🌟 deprecate age
 * 🌟 improve irony
 * 🐛 remove social skills
