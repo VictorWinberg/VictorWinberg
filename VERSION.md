@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc endurance
 * 🌟 upgrade age
 * 🌟 deprecate age
 * 🌟 improve irony
