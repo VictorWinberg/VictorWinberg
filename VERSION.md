@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 fix programming
 * 🌟 improve endurance
 * 🐛 misc endurance
 * 🌟 upgrade age
