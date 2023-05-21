@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 upgrade stamina
 * 🚀 deprecate agility
 * 🚀 upgrade age
 * 🌟 fix programming
