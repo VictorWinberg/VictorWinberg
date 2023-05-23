@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 add luck
 * 🚨 deprecate durability
 * 🚀 upgrade stamina
 * 🚀 deprecate agility
