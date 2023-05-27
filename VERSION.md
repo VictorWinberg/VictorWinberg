@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 decrease endurance
 * 🧪 fix luck
 * 🐛 update durability
 * 🚨 upgrade luck
