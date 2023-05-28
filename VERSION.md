@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 update social skills
 * 🧪 decrease endurance
 * 🧪 fix luck
 * 🐛 update durability
