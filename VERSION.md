@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 deprecate humor
 
 ### Version v0.28.1
 * 🧪 improve agility
