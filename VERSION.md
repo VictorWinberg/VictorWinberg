@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.28.1
 * 🧪 improve agility
 * 🚨 improve endurance
 * 🚀 increase luck
