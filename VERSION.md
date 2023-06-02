@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 remove humor
 * 🧪 deprecate humor
 
 ### Version v0.28.1
