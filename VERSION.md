@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 increase endurance
 * 🚨 remove humor
 * 🧪 deprecate humor
 
