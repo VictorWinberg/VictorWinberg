@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 fix intelligence
 * 🐛 increase endurance
 * 🚨 remove humor
 * 🧪 deprecate humor
