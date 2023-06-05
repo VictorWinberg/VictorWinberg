@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 downgrade stamina
 * 🚀 fix intelligence
 * 🐛 increase endurance
 * 🚨 remove humor
