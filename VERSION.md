@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 increase spelling
 * 🌟 downgrade stamina
 * 🚀 fix intelligence
 * 🐛 increase endurance
