@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 update luck
 * 🌟 increase spelling
 * 🌟 downgrade stamina
 * 🚀 fix intelligence
