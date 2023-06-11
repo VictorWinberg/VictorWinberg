@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase stamina
 * 🌟 add intelligence
 * 🐛 upgrade intelligence
 * 🐛 remove human interactions
