@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 upgrade social skills
 * 🚨 increase stamina
 * 🌟 add intelligence
 * 🐛 upgrade intelligence
