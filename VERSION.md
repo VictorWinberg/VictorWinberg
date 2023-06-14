@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 improve humor
 * 🚨 decrease weight
 * 🚨 upgrade social skills
 * 🚨 increase stamina
