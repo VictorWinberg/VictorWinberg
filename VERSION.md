@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update luck
 * 🧪 increase luck
 * 🚀 improve humor
 * 🚨 decrease weight
