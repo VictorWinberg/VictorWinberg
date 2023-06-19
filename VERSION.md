@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 update stamina
 * 🚀 improve agility
 * 🐛 fix weight
 * 🌟 update luck
