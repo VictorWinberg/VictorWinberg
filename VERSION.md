@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 add jokes
 * 🚨 decrease strength
 * 🚀 update stamina
 * 🚀 improve agility
