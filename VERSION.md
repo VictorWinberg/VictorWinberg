@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 misc human interactions
 * 🧪 add jokes
 * 🚨 decrease strength
 * 🚀 update stamina
