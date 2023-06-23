@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 decrease irony
 * 🚀 misc human interactions
 * 🧪 add jokes
 * 🚨 decrease strength
