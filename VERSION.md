@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade weight
 * 🌟 decrease irony
 * 🚀 misc human interactions
 * 🧪 add jokes
