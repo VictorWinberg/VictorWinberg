@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 downgrade speed
 * 🚀 add endurance
 * 🐛 upgrade weight
 * 🌟 decrease irony
