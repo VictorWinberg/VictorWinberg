@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 improve programming
 * 🐛 fix programming
 * 🧪 downgrade speed
 * 🚀 add endurance
