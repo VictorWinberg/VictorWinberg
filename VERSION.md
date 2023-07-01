@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.28.2
 * 🚀 update jokes
 * 🧪 remove age
 * 🧪 improve programming
