@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 misc agility
 
 ### Version v0.28.2
 * 🚀 update jokes
