@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase irony
 * 🐛 misc agility
 
 ### Version v0.28.2
