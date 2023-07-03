@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 increase endurance
 * 🚨 increase irony
 * 🐛 misc agility
 
