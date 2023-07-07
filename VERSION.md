@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve jokes
 * 🧪 decrease humor
 * 🐛 improve programming
 * 🚨 misc endurance
