@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 deprecate irony
 * 🧪 update luck
 * 🚀 increase humor
 * 🐛 decrease social skills
