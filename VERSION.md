@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 update weight
 * 🐛 remove stamina
 * 🚀 deprecate irony
 * 🧪 update luck
