@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 downgrade age
 * 🧪 misc intelligence
 * 🧪 update weight
 * 🐛 remove stamina
