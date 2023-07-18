@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 deprecate endurance
 * 🧪 fix irony
 * 🚀 downgrade age
 * 🧪 misc intelligence
