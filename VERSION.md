@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 fix strength
 * 🚀 add weight
 * 🧪 deprecate endurance
 * 🧪 fix irony
