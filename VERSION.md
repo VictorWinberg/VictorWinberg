@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 fix social skills
 * 🐛 fix strength
 * 🚀 add weight
 * 🧪 deprecate endurance
