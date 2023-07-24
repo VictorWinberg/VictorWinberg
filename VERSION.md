@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 add spelling
 * 🚀 fix weight
 * 🧪 remove strength
 * 🐛 fix social skills
