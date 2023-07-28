@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate humor
 * 🌟 fix programming
 * 🚀 decrease social skills
 * 🌟 update speed
