@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 misc human interactions
 * 🚨 deprecate humor
 * 🌟 fix programming
 * 🚀 decrease social skills
