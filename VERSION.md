@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate programming
 * 🚀 misc human interactions
 * 🚨 deprecate humor
 * 🌟 fix programming
