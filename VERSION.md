@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 downgrade agility
 * 🚨 deprecate programming
 * 🚀 misc human interactions
 * 🚨 deprecate humor
