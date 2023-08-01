@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 decrease social skills
 
 ### Version v0.28.3
 * 🐛 downgrade agility
