@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.28.3
 * 🐛 downgrade agility
 * 🚨 deprecate programming
 * 🚀 misc human interactions
