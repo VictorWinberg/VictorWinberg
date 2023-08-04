@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🧪 downgrade luck
 * 🌟 decrease humor
 * 🚀 fix programming
 * 🧪 decrease social skills
