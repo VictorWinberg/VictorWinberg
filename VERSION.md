@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove luck
 * 🚀 increase irony
 * 🧪 downgrade luck
 * 🌟 decrease humor
