@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate programming
 * 🌟 add strength
 * 🐛 increase jokes
 * 🐛 remove luck
