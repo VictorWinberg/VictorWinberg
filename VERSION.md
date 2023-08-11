@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve humor
 * 🚨 downgrade luck
 * 🚨 deprecate programming
 * 🌟 add strength
