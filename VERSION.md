@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 remove irony
 * 🚨 remove durability
 * 🚨 misc age
 * 🌟 improve humor
