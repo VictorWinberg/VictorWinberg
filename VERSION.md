@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 misc luck
 * 🚀 increase social skills
 * 🐛 remove irony
 * 🚨 remove durability
