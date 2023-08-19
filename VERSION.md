@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade durability
 * 🧪 add irony
 * 🐛 fix stamina
 * 🌟 misc luck
