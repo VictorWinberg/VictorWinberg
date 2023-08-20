@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 decrease social skills
 * 🐛 upgrade durability
 * 🧪 add irony
 * 🐛 fix stamina
