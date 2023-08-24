@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 decrease jokes
 * 🐛 add human interactions
 * 🧪 improve jokes
 * 🐛 remove age
