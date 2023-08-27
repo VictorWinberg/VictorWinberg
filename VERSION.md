@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 add sarcasm
 * 🐛 fix spelling
 * 🚨 improve endurance
 * 🐛 decrease jokes
