@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 deprecate endurance
 * 🚨 add strength
 * 🚀 add sarcasm
 * 🐛 fix spelling
