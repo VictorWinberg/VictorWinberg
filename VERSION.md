@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚀 decrease humor
 * 🚨 deprecate endurance
 * 🚨 add strength
 * 🚀 add sarcasm
