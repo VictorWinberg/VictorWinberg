@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 improve social skills
 * 🚀 decrease humor
 * 🚨 deprecate endurance
 * 🚨 add strength
