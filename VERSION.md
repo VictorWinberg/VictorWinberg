@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 update durability
 
 ### Version v0.28.4
 * 🌟 improve social skills
