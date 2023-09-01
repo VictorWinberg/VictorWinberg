@@ -12,6 +12,8 @@ Version history
 ======
 
 ### Draft
+
+### Version v0.28.4
 * 🌟 improve social skills
 * 🚀 decrease humor
 * 🚨 deprecate endurance
