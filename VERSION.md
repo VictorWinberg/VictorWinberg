@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🚨 downgrade endurance
 * 🌟 update durability
 
 ### Version v0.28.4
