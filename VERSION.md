@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 add stamina
 * 🌟 fix spelling
 * 🌟 increase speed
 * 🌟 downgrade social skills
