@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🐛 upgrade endurance
 * 🌟 add stamina
 * 🌟 fix spelling
 * 🌟 increase speed
