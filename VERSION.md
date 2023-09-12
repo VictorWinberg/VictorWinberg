@@ -12,6 +12,7 @@ Version history
 ======
 
 ### Draft
+* 🌟 remove social skills
 * 🐛 fix social skills
 * 🐛 upgrade endurance
 * 🌟 add stamina
