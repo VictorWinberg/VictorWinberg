@@ -3,14 +3,31 @@ name: Create release
 on:
   schedule:
     - cron: '20 4 1 * *'
+  workflow_dispatch:
 
 jobs:
-  version:
+  release:
+    name: Release
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
     steps:
       - uses: actions/checkout@v3
         with:
           ref: 'main'
+          fetch-depth: 0
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install and cache node dependencies
+        uses: bahmutov/npm-install@v1
+
       - name: Build version
         id: build_version
         run: |
@@ -21,10 +38,22 @@ jobs:
           M=$(($(date -d @$DIFF '+%-m') - 1))
           VERSION="v0.$Y.$M"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
+
       - name: Update VERSION.md
-        run: sed -i "15 i \\\n### Version $VERSION" VERSION.md
+        run: sed -i "11 c \\Version $VERSION" VERSION.md
         env:
           VERSION: ${{ steps.build_version.outputs.version }}
+
+      - name: Build changelog
+        id: build_changelog
+        run: |
+          CHANGELOG=$(node scripts/changelog.mjs VictorWinberg $VERSION)
+          echo "changelog<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        env:
+          VERSION: ${{ steps.build_version.outputs.version }}
+
       - name: Git commit
         run: |
           git config --global user.name 'VictorWinberg Actions'
@@ -34,17 +63,9 @@ jobs:
           git push --follow-tags
         env:
           VERSION: ${{ steps.build_version.outputs.version }}
-      - name: Build Changelog
-        id: build_changelog
-        uses: mikepenz/release-changelog-builder-action@v3
-        with:
-          configuration: ".github/configuration.json"
-          commitMode: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ steps.build_version.outputs.version }}
-          body: ${{steps.build_changelog.outputs.changelog}}
-
+          body: ${{ steps.build_changelog.outputs.changelog }}
