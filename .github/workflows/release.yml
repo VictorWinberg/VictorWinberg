@@ -20,8 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          # ref: 'main'
-          fetch-depth: '0'
+          # ref: 'main' # TODO: revert
+          fetch-depth: '0' # TODO: REMOVE
 
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
@@ -46,7 +46,9 @@ jobs:
         id: build_changelog
         run: |
           CHANGELOG=$(node scripts/changelog.mjs VictorWinberg $VERSION)
-          echo "changelog=$CHANGELOG" > $GITHUB_OUTPUT
+          echo "changelog<<EOF" >> $GITHUB_OUTPUT
+          echo "$CHANGELOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
         env:
           VERSION: ${{ steps.build_version.outputs.version }}
 
