@@ -6,7 +6,7 @@ on:
 
   pull_request: # TODO: REMOVE THIS
     branches:
-      - master
+      - main
 
 jobs:
   release:
