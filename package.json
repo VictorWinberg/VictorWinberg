@@ -1,5 +1,14 @@
 {
+  "name": "victorwinberg",
+  "version": "1.0.0",
   "dependencies": {
     "txtgen": "^3.0.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorWinberg/VictorWinberg.git"
+  },
+  "author": "",
+  "license": "ISC"
 }
