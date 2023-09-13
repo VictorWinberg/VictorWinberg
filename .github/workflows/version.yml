@@ -18,7 +18,7 @@ jobs:
           COMMIT_SCOPE=('add' 'fix' 'update' 'improve' 'remove' 'deprecate' 'upgrade' 'downgrade' 'misc' 'increase' 'decrease')
           COMMIT_BODY=('human interactions' 'social skills' 'strength' 'speed' 'agility' 'age' 'spelling' 'intelligence' 'luck' 'endurance' 'durability' 'jokes' 'programming' 'sarcasm' 'irony' 'humor' 'stamina' 'weight')
           COMMIT_MSG="${COMMIT_TYPES[$RANDOM % ${#COMMIT_TYPES[@]}]} ${COMMIT_SCOPE[$RANDOM % ${#COMMIT_SCOPE[@]}]} ${COMMIT_BODY[$RANDOM % ${#COMMIT_BODY[@]}]}"
-          echo "::set-output name=commit_msg::$COMMIT_MSG"
+          echo "commit_msg=$COMMIT_MSG" >> $GITHUB_OUTPUT
       - name: Update VERSION.md
         run: sed -i "15 i * $MSG" VERSION.md
         env:
