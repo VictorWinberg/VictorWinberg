@@ -49,6 +49,9 @@ jobs:
         env:
           VERSION: ${{ steps.build_version.outputs.version }}
 
+      - name: Update VERSION.md
+        run: sed -i "11 c \\Version $VERSION" VERSION.md
+
       - name: Git commit
         run: |
           git config --global user.name 'VictorWinberg Actions'
