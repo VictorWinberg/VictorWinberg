@@ -2,7 +2,7 @@ name: Create release
 
 on:
   schedule:
-    - cron: '20 4 1 * *'
+    - cron: '20 4 7 * *'
   workflow_dispatch:
 
 jobs:
@@ -37,10 +37,11 @@ jobs:
           Y=$(($(date -d @$DIFF '+%-Y') - 1970))
           M=$(($(date -d @$DIFF '+%-m') - 1))
           VERSION="v0.$Y.$M"
+          echo "$VERSION"
           echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Update VERSION.md
-        run: sed -i "11 c \\Version $VERSION" VERSION.md
+        run: sed --debug -i "11 c \\Version $VERSION" VERSION.md
         env:
           VERSION: ${{ steps.build_version.outputs.version }}
 
@@ -58,6 +59,7 @@ jobs:
         run: |
           git config --global user.name 'VictorWinberg Actions'
           git config --global user.email 'victorwinberg-actions@users.noreply.github.com'
+          git status
           git commit -am "🔖 $VERSION"
           git tag -a $VERSION -m "$VERSION"
           git push --follow-tags
