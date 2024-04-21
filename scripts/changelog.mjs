@@ -1,4 +1,5 @@
 import { addNouns, article, paragraph, sentence, setTemplates } from "txtgen";
+import { createNameId } from "mnemonic-id";
 
 if (process.argv.length < 3) {
   console.log("Usage: node changelog.mjs <title> <version>");
@@ -10,6 +11,9 @@ const version = process.argv[3];
 const sentences = [];
 
 sentences.push(`# ${title} ${version}! 🎉`);
+sentences.push("\n\n");
+
+sentences.push(`| Release: | ${createNameId()} |\n|-|-|`);
 sentences.push("\n\n");
 
 setTemplates([
@@ -78,7 +82,7 @@ setTemplates([
   "also, our chatbot is un{{adjective}}",
 ]);
 
-sentences.push(paragraph())
+sentences.push(paragraph());
 sentences.push("\n\n");
 
 sentences.push("Enjoy the release! 🎉");
